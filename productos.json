@@ -1,0 +1,12 @@
+[
+    { "id": 1, "nombre": "Manzana", "precio": 1.2 },
+    { "id": 2, "nombre": "Banana", "precio": 0.8 },
+    { "id": 3, "nombre": "Naranja", "precio": 1.1 },
+    { "id": 4, "nombre": "Pera", "precio": 1.3 },
+    { "id": 5, "nombre": "Uva", "precio": 2.0 },
+    { "id": 6, "nombre": "Sandía", "precio": 3.0 },
+    { "id": 7, "nombre": "Melón", "precio": 2.5 },
+    { "id": 8, "nombre": "Kiwi", "precio": 1.7 },
+    { "id": 9, "nombre": "Mango", "precio": 2.2 },
+    { "id": 10, "nombre": "Fresa", "precio": 1.5 }
+]
